@@ -1,5 +1,4 @@
 data/inventory.db
 *.db
 __pycache__/
-*.pkl
 .ipynb_checkpoints/
